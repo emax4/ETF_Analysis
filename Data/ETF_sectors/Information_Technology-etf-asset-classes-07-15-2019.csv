@@ -1,0 +1,46 @@
+Symbol,Name,AUM,Asset Class,Leverage,Mgmnt Fee,Dividend(a),Div Yield
+XLK ,S&P 500 Info Tech Sector SPDR ,"21,666,136,000",Equity ,Long ,0.13%,1.03,1.27%
+VGT ,Information Technology ETF Vanguard ,"21,407,108,800",Equity ,Long ,0.10%,2.52,1.15%
+FDN ,DJ Internet Index First Trust ,"9,269,190,400",Equity ,Long ,0.53%,0,0.00%
+IYW ,US Technology Ishares ETF ,"4,301,980,400",Equity ,Long ,0.43%,1.58,0.76%
+IGV ,North American Tech-Software Ishares ETF ,"2,840,716,000",Equity ,Long ,0.47%,0.27,0.12%
+IXN ,Global Tech Ishares ETF ,"2,756,202,000",Equity ,Long ,0.47%,1.9,1.02%
+QTEC ,Nasdaq-100 Technology Index Fund FT ,"2,566,180,400",Equity ,Long ,0.58%,0.61,0.68%
+FTEC ,Fidelity Info Tech MSCI ETF ,"2,547,518,800",Equity ,Long ,0.08%,0.7,1.09%
+FXL ,Technology Alphadex First Trust ,"2,380,482,000",Equity ,Long ,0.63%,0.28,0.41%
+SKYY ,Cloud Computing ETF FT ,"2,301,830,000",Equity ,Long ,0.60%,0.59,0.98%
+RYT ,S&P 500 EW Technology Invesco ETF ,"1,780,039,000",Equity ,Long ,0.40%,1.73,0.94%
+IGM ,North American Tech Ishares ETF ,"1,709,772,000",Equity ,Long ,0.47%,1.09,0.48%
+HACK ,ISE Cyber Security ETF ,"1,635,202,500",Equity ,Long ,0.60%,0.05,0.12%
+SOXX ,PHLX Semiconductor Ishares ETF ,"1,625,218,400",Equity ,Long ,0.47%,2.43,1.19%
+SMH ,Semiconductor Vaneck ETF ,"1,190,796,200",Equity ,Long ,0.35%,1.64,1.43%
+TDIV ,Nasdaq Technology Dividend Index Fund FT ,"999,916,600",Equity ,Long ,0.50%,0.92,2.29%
+TECL ,Technology Bull 3X Direxion ,"796,230,000",Equity ,Triple-Long ,1.08%,0.55,0.31%
+SOXL ,Semiconductor Bull 3X Direxion ,"743,222,100",Equity ,Triple-Long ,0.99%,1.17,0.73%
+PNQI ,Nasdaq Internet Invesco ETF ,"581,175,000",Equity ,Long ,0.60%,0.03,0.02%
+PSJ ,Dynamic Software Invesco ETF ,"518,193,000",Equity ,Long ,0.63%,0,0.00%
+CQQQ ,China Technology Invesco ETF ,"509,410,500",Equity ,Long ,0.70%,0.17,0.38%
+XNTK ,SPDR Series Trust ,"448,105,000",Equity ,Long ,0.35%,17.64,23.22%
+EMQQ ,Emrg Mkts Internet and Ecommerce Etc ,"401,388,000",Equity ,Long ,0.86%,0.14,0.43%
+ROM ,Ultra Technology Proshares ,"370,939,000",Equity ,Double-Long ,0.95%,0.28,0.22%
+XSD ,S&P Semiconductor SPDR ,"317,772,000",Equity ,Long ,0.35%,0.72,0.81%
+PSCT ,S&P Smallcap Information Technology Invesco ETF ,"310,356,000",Equity ,Long ,0.29%,0.3,0.36%
+XSW ,S&P Software & Srvs ETF SPDR ,"258,974,100",Equity ,Long ,0.35%,0.22,0.22%
+PTF ,DWA Technology Momentum Invesco ETF ,"244,440,000",Equity ,Long ,0.60%,0,0.00%
+PSI ,Dynamic Semiconductors Invesco ETF ,"181,350,000",Equity ,Long ,0.61%,0.39,0.70%
+SOXS ,Semiconductor Bear 3X Direxion ,"155,362,900",Equity ,Triple-Short ,1.08%,0.96,2.05%
+NXTG ,Nasdaq Smartphone Index Fund FT ,"150,435,000",Equity ,Long ,0.70%,0.37,0.73%
+SOCL ,G-X Social Media ETF ,"133,640,000",Equity ,Long ,0.65%,0.49,1.46%
+IGN ,North American Tech-Multimedia Networking Ishare ,"118,566,000",Equity ,Long ,0.47%,0.19,0.34%
+GAMR ,Purefunds Video Game Tech ETF ,"91,203,000",Equity ,Long ,0.75%,0.63,1.48%
+PXQ ,Dynamic Networking Invesco ETF ,"70,000,500",Equity ,Long ,0.63%,0.71,1.16%
+ITEQ ,Bluestar Israel Technology ETF ,"67,983,000",Equity ,Long ,0.75%,0.09,0.23%
+JHMT ,JH Technology Multifactor ETF ,"58,903,000",Equity ,Long ,0.40%,0.48,0.93%
+USD ,Ultra Semiconductors Proshares ,"57,096,000",Equity ,Double-Long ,0.95%,0.4,0.92%
+TECS ,Technology Bear 3X Direxion ,"44,236,300",Equity ,Triple-Short ,1.10%,0.25,2.24%
+QQQC ,G-X Nasdaq China Tech ETF ,"30,700,000",Equity ,Long ,0.65%,0.68,2.84%
+FTXL ,Nasdaq Semiconductor ETF FT ,"28,339,000",Equity ,Long ,0.60%,0.25,0.77%
+KEMQ ,Kraneshares Emerging Markets Consumer Technology ,"25,944,000",Equity ,Long ,0.79%,N/A ,0.00%
+CHIC ,G-X MSCI China Communication Services ETF ,"22,097,000",Equity ,Long ,0.65%,0.1,0.45%
+SSG ,Ultrashort Semiconductors Proshares ,"6,273,400",Equity ,Double-Short ,0.95%,0.38,1.63%
+REW ,Ultrashort Technology Proshares ,"5,010,900",Equity ,Double-Short ,0.95%,0.26,1.57%

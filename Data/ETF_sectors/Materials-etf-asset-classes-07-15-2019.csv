@@ -1,0 +1,38 @@
+Symbol,Name,AUM,"Asset Class",Leverage,"Mgmnt Fee",Dividend(a),"Div Yield"
+GDXJ,"Junior Gold Miners ETF Vaneck",4106200000,Equity,Long,0.53%,0.136,0.38%
+SILJ,"Purefunds ISE Junior Silver ETF",60563000,Equity,Long,0.69%,0.133,1.54%
+COPX,"G-X Copper Miners ETF",50272200,Equity,Long,0.65%,0.697,3.52%
+SOIL,"G-X Fertilizers/Potash ETF",10568500,Equity,Long,0.69%,0.24,2.61%
+NUGT,"Gold Miners Bull 3X Direxion ETF",1342940200,Equity,Triple-Long,1.23%,0.111,0.38%
+GDX,"Gold Miners Vaneck ETF",11498256000,Equity,Long,0.52%,0.105,0.40%
+RING,"Global Gold Miners Ishares MSCI ETF",248948000,Equity,Long,0.39%,0.188,0.90%
+LIT,"G-X Lithium ETF",526355300,Equity,Long,0.75%,0.902,3.46%
+XME,"S&P Metals & Mining SPDR",547870600,Equity,Long,0.35%,0.655,2.36%
+REMX,"Rare Earth/Strategic Metals Vaneck ETF",228172300,Equity,Long,0.59%,1.685,11.57%
+SIL,"G-X Silver Miners ETF",343542200,Equity,Long,0.65%,0.402,1.53%
+SLX,"Steel Vaneck ETF",93192000,Equity,Long,0.56%,2.182,5.66%
+URA,"G-X Uranium ETF",222148900,Equity,Long,0.69%,0.155,1.30%
+CHIM,"G-X China Materials ETF",2351900,Equity,Long,0.65%,0.997,6.41%
+MXI,"Global Materials Ishares ETF",195749000,Equity,Long,0.47%,2.411,3.76%
+FXZ,"Materials Alphadex First Trust",169144500,Equity,Long,0.64%,0.446,1.17%
+IYM,"US Basic Materials Ishares ETF",401200000,Equity,Long,0.43%,1.564,1.66%
+SMN,"Ultrashort Basic Materials Proshares",7041300,Equity,Double-Short,0.95%,0.103,0.39%
+UYM,"Ultra Basic Materials Proshares",45663000,Equity,Double-Long,0.95%,0.666,1.13%
+VAW,"Materials ETF Vanguard",2042755600,Equity,Long,0.10%,2.49,1.95%
+XLB,"S&P 500 Materials Sector SPDR",4720597600,Equity,Long,0.13%,1.193,2.04%
+DUST,"Gold Miners Bear 3X Direxion ETF",295058800,Equity,Triple-Short,1.05%,0.149,1.45%
+FMAT,"Fidelity Materials MSCI ETF",199043000,Equity,Long,0.08%,0.635,1.95%
+GDXS,"Ultrashort Gold Miner Proshares",1408000,Equity,Double-Short,0.95%,0.007,0.08%
+GOAU,"US Global Go Gold and Precious Metal Miners ETF",15214500,Equity,Long,0.60%,0.054,0.37%
+GOEX,"G-X Gold Explorers ETF",40486300,Equity,Long,0.65%,0.015,0.06%
+JHMA,"JH Materials Multifactor ETF",20851200,Equity,Long,0.40%,0.594,1.82%
+MATF,"Materials Ishares Edge MSCI Multifactor ETF",4885500,Equity,Long,0.35%,0.701,2.19%
+PICK,"Global Metals & Mining Producers Ishares MSCI Et",246325000,Equity,Long,0.39%,1.694,5.74%
+SLVP,"Global Silver Miners Ishares MSCI ETF",68109000,Equity,Long,0.39%,0.085,0.91%
+WOOD,"Global Timber & Forestry Ishares ETF",225523200,Equity,Long,0.47%,1.932,3.28%
+CUT,"MSCI Global Timber Invesco ETF",157884000,Equity,Long,0.55%,0.825,3.08%
+PSAU,"Global Gold and Precious Metals Invesco ETF",29257500,Equity,Long,0.75%,0.109,0.55%
+PSCM,"S&P Smallcap Materials Invesco ETF",15687000,Equity,Long,0.29%,0.52,1.16%
+PYZ,"DWA Basic Materials Momentum Invesco ETF",59600000,Equity,Long,0.60%,0.793,1.33%
+RTM,"S&P 500 EW Materials Invesco ETF",136287500,Equity,Long,0.40%,2.141,1.96%
+"Downloaded from Barchart.com as of 07-15-2019 08:23pm CDT"

@@ -1,0 +1,44 @@
+Symbol,Name,AUM,Asset Class,Leverage,Mgmnt Fee,Dividend(a),Div Yield
+XLF ,S&P 500 Financials Sector SPDR ,"25,079,697,600",Equity ,Long ,0.13%,0.55,1.93%
+VFH ,Financial ETF Vanguard ,"7,606,587,200",Equity ,Long ,0.10%,1.49,2.11%
+KRE ,S&P Regional Banking ETF SPDR ,"2,140,045,400",Equity ,Long ,0.35%,1.2,2.22%
+KBE ,S&P Bank ETF SPDR ,"1,757,093,400",Equity ,Long ,0.35%,0.99,2.25%
+IYF ,US Financials Ishares ETF ,"1,753,448,000",Equity ,Long ,0.43%,2.19,1.70%
+PGF ,Financial Preferred Invesco ETF ,"1,503,241,400",Equity ,Long ,0.63%,1,5.41%
+FAS ,Financial Bull 3X Direxion ,"1,493,073,200",Equity ,Triple-Long ,1.00%,0.68,0.84%
+IYG ,US Financial Services Ishares ETF ,"1,255,436,200",Equity ,Long ,0.43%,2.28,1.65%
+FNCL ,Fidelity Financials MSCI ETF ,"1,161,922,500",Equity ,Long ,0.08%,0.9,2.18%
+KIE ,S&P Insurance ETF SPDR ,"1,089,433,000",Equity ,Long ,0.35%,0.56,1.60%
+EUFN ,Europe Financials Ishares MSCI ETF ,"1,084,643,600",Equity ,Long ,0.48%,0.98,5.32%
+FXO ,Financial Alphadex First Trust ,"1,000,851,000",Equity ,Long ,0.63%,0.59,1.82%
+UYG ,Ultra Financials Proshares ,"822,928,600",Equity ,Double-Long ,0.95%,0.46,0.97%
+IPAY ,Purefunds ISE Mobile Payments ETF ,"629,200,000",Equity ,Long ,0.75%,0.23,0.47%
+IAT ,US Regional Banks Ishares ETF ,"471,771,100",Equity ,Long ,0.43%,1.13,2.41%
+IXG ,Global Financials Ishares ETF ,"355,013,000",Equity ,Long ,0.47%,1.79,2.75%
+KBWD ,KBW High Dividend Yield Financial Invesco ETF ,"302,742,000",Equity ,Long ,2.42%,1.75,8.04%
+RYF ,S&P 500 EW Financials Invesco ETF ,"289,835,000",Equity ,Long ,0.40%,0.94,2.10%
+IAI ,US Broker-Dealers & Sec Exch Ishares ETF ,"240,644,500",Equity ,Long ,0.43%,1.08,1.64%
+PSP ,Global Listed Private Equity Invesco ETF ,"221,007,500",Equity ,Long ,2.03%,0.44,3.63%
+BIZD ,Bdc Income Vaneck ETF ,"213,590,000",Equity ,Long ,9.41%,1.59,9.69%
+BDCL ,Wells Fargo 2X Bus Dv Cm ETN UBS E-Tracs ,"192,345,500",Equity ,Double-Long ,0.85%,2.32,16.35%
+QABA ,Qtec First Trust ETF ,"178,432,500",Equity ,Long ,0.60%,0.91,1.90%
+FAZ ,Financial Bear 3X Direxion ,"163,092,400",Equity ,Triple-Short ,1.07%,0.45,1.26%
+DFNL ,Davis Select Financial ETF ,"148,585,500",Equity ,Long ,0.64%,0.64,2.72%
+PSCF ,S&P Smallcap Financials Invesco ETF ,"133,623,000",Equity ,Long ,0.29%,2.42,4.45%
+IAK ,US Insurance Ishares ETF ,"112,964,000",Equity ,Long ,0.43%,1.23,1.68%
+KBWP ,KBW Property & Casualty Insurance Invesco ETF ,"104,762,500",Equity ,Long ,0.35%,1.53,2.12%
+CHIX ,G-X China Financials ETF ,"94,192,000",Equity ,Long ,0.65%,0.88,5.45%
+BDCS ,Wells Fargo Bus Dev Comp ETN ,"85,961,200",Equity ,Long ,0.85%,1.71,8.69%
+JHMF ,JH Financial Multifactor ETF ,"47,081,100",Equity ,Long ,0.40%,0.65,1.67%
+PFI ,DWA Financial Momentum Invesco ETF ,"44,654,500",Equity ,Long ,0.60%,0.46,1.18%
+KCE ,S&P Capital Markets ETF SPDR ,"39,928,000",Equity ,Long ,0.35%,1.29,2.26%
+RWW ,Financial Sector Revenue ETF Oppenheimer ,"34,715,000",Equity ,Long ,0.45%,1.18,1.70%
+FINU ,Ultrapro Financials Proshares ,"29,792,800",Equity ,Triple-Long ,0.95%,0.82,0.90%
+DPST ,Direxion Regional Banks Bull 3X ,"24,480,500",Equity ,Triple-Long ,1.00%,0.76,1.70%
+SKF ,Ultrashort Financials Proshares ,"22,540,000",Equity ,Double-Short ,0.95%,0.11,0.66%
+SEF ,Financials Short Proshares ,"18,178,300",Equity ,Short ,0.95%,0.23,1.12%
+DXJF ,Wisdomtree Japan Financials Hedged Fund ,"12,672,000",Equity ,Long ,0.48%,0.47,2.26%
+FNCF ,Financials Ishares Edge MSCI Multifactor ETF ,"8,690,000",Equity ,Long ,0.35%,1.33,3.86%
+TETF ,Industry Exposure & Fin Srvs ETF ,"5,541,000",Equity ,Long ,0.64%,0.55,2.98%
+WDRW ,Direxion Regional Banks Bear 3X ,"1,331,000",Equity ,Triple-Short ,1.07%,0.48,1.80%
+FINZ ,Ultrapro Short Financials Proshares ,"1,129,300",Equity ,Triple-Short ,0.95%,0.07,1.18%

@@ -1,0 +1,16 @@
+Symbol,Name,AUM,"Asset Class",Leverage,"Mgmnt Fee",Dividend(a),"Div Yield"
+XLU,"S&P 500 Utilities Sector SPDR",9979512800,Equity,Long,0.13%,1.85,3.05%
+VPU,"Utilities ETF Vanguard",3841711200,Equity,Long,0.10%,3.879,2.88%
+FXU,"Utilities Alphadex First Trust",1378146000,Equity,Long,0.63%,0.557,1.90%
+IDU,"US Utilities Ishares ETF",895401000,Equity,Long,0.43%,4.024,2.63%
+FUTY,"Fidelity Utilities MSCI ETF",753165000,Equity,Long,0.08%,1.115,2.80%
+RYU,"S&P 500 EW Utilities Invesco ETF",371110000,Equity,Long,0.40%,2.662,2.65%
+PUI,"DWA Utilities Momentum Invesco ETF",227424000,Equity,Long,0.60%,0.547,1.66%
+JXI,"Global Utilities Ishares ETF",204499000,Equity,Long,0.47%,1.774,3.21%
+PSCU,"S&P Smallcap Utilities Invesco ETF",49913000,Equity,Long,0.29%,1.244,2.36%
+JHMU,"JH Utilities Multifactor ETF",34439400,Equity,Long,0.40%,0.731,2.25%
+UPW,"Ultra Utilities Proshares",16986800,Equity,Double-Long,0.95%,0.686,1.11%
+UTSL,"Direxion Daily Utilities Bull 3X Shares",7780000,Equity,Triple-Long,1.07%,0.672,1.73%
+SDP,"Ultrashort Utilities Proshares",4019200,Equity,Double-Short,0.95%,0.085,0.50%
+UTLF,"Utilities Ishares Edge MSCI Multifactor ETF",2692000,Equity,Long,0.35%,0.863,3.22%
+"Downloaded from Barchart.com as of 07-15-2019 09:28pm CDT"

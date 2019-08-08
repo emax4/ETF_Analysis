@@ -1,0 +1,35 @@
+Symbol,Name,AUM,Asset Class,Leverage,Mgmnt Fee,Dividend(a),Div Yield
+XLV ,S&P 500 Healthcare Sector SPDR ,"17,737,945,600",Equity ,Long ,0.13%,1.49,1.61%
+VHT ,Healthcare ETF Vanguard ,"9,209,504,800",Equity ,Long ,0.10%,3.47,2.00%
+IBB ,Nasdaq Biotechnology Ishares ETF ,"7,229,968,800",Equity ,Long ,0.47%,0.11,0.11%
+XBI ,S&P Biotech SPDR ,"4,361,404,400",Equity ,Long ,0.35%,0.09,0.10%
+IHI ,US Medical Devices Ishares ETF ,"3,875,753,600",Equity ,Long ,0.43%,0.65,0.27%
+FBT ,Biotechnology Index NYSE ETF ,"2,833,168,200",Equity ,Long ,0.56%,0,0.00%
+IXJ ,Global Healthcare Ishares ETF ,"2,183,562,600",Equity ,Long ,0.47%,1.51,2.47%
+IYH ,US Healthcare Ishares ETF ,"2,161,503,000",Equity ,Long ,0.43%,3.57,1.83%
+FHLC ,Fidelity Health Care MSCI ETF ,"1,573,394,500",Equity ,Long ,0.08%,0.93,2.07%
+FXH ,Healthcare Alphadex First Trust ETF ,"1,194,732,000",Equity ,Long ,0.63%,0,0.00%
+IHF ,US Healthcare Providers Ishares ETF ,"953,662,500",Equity ,Long ,0.43%,6.67,3.67%
+RYH ,S&P 500 EW Health Care Invesco ETF ,"762,825,000",Equity ,Long ,0.40%,1.12,0.55%
+XHE ,S&P Healthcare Equipment SPDR ,"607,771,000",Equity ,Long ,0.35%,0.11,0.13%
+PSCH ,S&P Smallcap Health Care Invesco ETF ,"509,256,000",Equity ,Long ,0.29%,0.01,0.00%
+PJP ,Dynamic Pharmaceuticals Invesco ETF ,"397,596,000",Equity ,Long ,0.57%,0.71,1.22%
+BBH ,Biotech Vaneck ETF ,"361,946,600",Equity ,Long ,0.35%,5.55,4.44%
+IHE ,US Pharmaceuticals Ishares ETF ,"301,452,500",Equity ,Long ,0.43%,1.84,1.25%
+PBE ,Dynamic Biotechnology & Genome Invesco ETF ,"240,028,000",Equity ,Long ,0.59%,0,0.00%
+BIB ,Ultra Nasdaq Biotech Proshares ,"202,986,000",Equity ,Double-Long ,0.95%,0,0.00%
+XPH ,S&P Pharmaceuticals SPDR ,"200,415,700",Equity ,Long ,0.35%,0.3,0.77%
+PPH ,Pharmaceutical Vaneck ETF ,"163,531,300",Equity ,Long ,0.36%,1.11,1.93%
+CURE ,Healthcare Bull 3X Direxion ETF ,"144,690,000",Equity ,Triple-Long ,1.08%,0.31,0.56%
+PTH ,DWA Healthcare Momentum Invesco ETF ,"141,760,000",Equity ,Long ,0.60%,0,0.00%
+RXL ,Ultra Health Care Proshares ,"107,215,000",Equity ,Double-Long ,0.95%,0.38,0.37%
+XHS ,S&P Healthcare Services SPDR ,"92,969,600",Equity ,Long ,0.35%,0.22,0.32%
+JHMH ,JH Healthcare Multifactor ETF ,"54,473,400",Equity ,Long ,0.40%,0.82,2.38%
+CNCR ,Loncar Cancer Immunotherapy ETF ,"37,917,000",Equity ,Long ,0.79%,0.35,1.66%
+BIS ,Ultrashort Biotechnology Proshares ,"25,163,600",Equity ,Double-Short ,0.95%,0.25,1.35%
+BFIT ,G-X Health & Wellness Thematic Et ,"18,753,000",Equity ,Long ,0.50%,0.16,0.82%
+LNGR ,G-X Longevity Thematic Et ,"16,920,000",Equity ,Long ,0.50%,0.31,1.44%
+HCRF ,Healthcare Ishares Edge MSCI Multifactor ETF ,"8,795,000",Equity ,Long ,0.35%,0.23,0.65%
+PILL ,Direxion Daily Pharmaceutical & Medical Bull 3X ,"7,393,500",Equity ,Triple-Long ,0.99%,0.22,1.35%
+DXJH ,Wisdomtree Japan Healthcare Hedged Fund ,"3,799,000",Equity ,Long ,0.48%,0.97,2.57%
+RXD ,Ultrashort Health Care Proshares ,"2,391,000",Equity ,Double-Short ,0.95%,0.22,1.00%

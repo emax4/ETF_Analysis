@@ -1,0 +1,22 @@
+Symbol,Name,AUM,Asset Class,Leverage,Mgmnt Fee,Dividend(a),Div Yield
+XLP ,S&P 500 Cons Staples Sector SPDR ,"11,945,368,800",Equity ,Long ,0.13%,1.6,2.67%
+VDC ,Consumer Staples ETF Vanguard ,"5,161,089,600",Equity ,Long ,0.10%,3.65,2.39%
+KXI ,Global Cons Staples Ishares ETF ,"788,949,000",Equity ,Long ,0.47%,1.31,2.44%
+MOO ,Agribusiness ETF Vaneck ,"691,276,500",Equity ,Long ,0.54%,0.96,1.45%
+FSTA ,Fidelity Consumer Staples MSCI ETF ,"552,955,500",Equity ,Long ,0.08%,0.91,2.53%
+RHS ,S&P 500 EW Consumer Staples Invesco ETF ,"476,945,000",Equity ,Long ,0.40%,3.13,2.30%
+IYK ,US Consumer Goods Ishares ETF ,"467,212,500",Equity ,Long ,0.43%,2.94,2.36%
+FXG ,Consumer Staples Alphadex First Trust ,"314,840,000",Equity ,Long ,0.64%,1.08,2.32%
+ECON ,Emrg Mkts Consumer Egshares ,"269,113,500",Equity ,Long ,0.59%,0.2,0.88%
+PSL ,DWA Consumer Staples Momentum Invesco ETF ,"159,207,500",Equity ,Long ,0.60%,0.37,0.50%
+CHIQ ,G-X China Consumer ETF ,"149,460,000",Equity ,Long ,0.65%,0.4,2.54%
+INCO ,India Consumer Egshares ,"121,110,000",Equity ,Long ,0.76%,0.05,0.13%
+PBJ ,Dynamic Food & Beverage Invesco ETF ,"71,715,000",Equity ,Long ,0.63%,0.38,1.10%
+PSCC ,S&P Smallcap Consumer Staples Invesco ETF ,"50,939,000",Equity ,Long ,0.29%,1.14,1.56%
+EMCG ,Wisdomtree EM Consumer Growth ,"37,149,800",Equity ,Long ,0.32%,0.68,3.02%
+VEGI ,Global Agriculture Prod Ishares MSCI ETF ,"29,662,500",Equity ,Long ,0.39%,0.55,1.97%
+JHMS ,JH Consumer Staples Multifactor ETF ,"27,470,400",Equity ,Long ,0.40%,0.76,2.68%
+PAGG ,Global Agriculture Invesco ETF ,"15,345,000",Equity ,Long ,0.77%,0.34,1.33%
+UGE ,Ultra Consumer Goods Proshares ,"8,162,000",Equity ,Double-Long ,0.95%,0.38,0.83%
+CNSF ,Consumer Staples Ishares Edge MSCI Multifactor E ,"2,518,000",Equity ,Long ,0.35%,0.6,2.38%
+SZK ,Ultrashort Consumer Goods Proshares ,"2,078,700",Equity ,Double-Short ,0.95%,0.17,1.34%
