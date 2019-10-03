@@ -22,6 +22,7 @@ List of Canadian ETFs
 ### Power BI
 [ETF_Analysis](https://github.com/emax4/ETF_Analysis/blob/master/ETF%20dashboard.pbix).
 
+![Screenshot](https://github.com/emax4/ETF_Analysis/blob/master/Screener_sample.PNG)
 
 
 ### Web-scraper
