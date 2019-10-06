@@ -24,6 +24,7 @@ List of Canadian ETFs
 
 ![Screenshot](https://app.powerbi.com/view?r=eyJrIjoiZjA0ZmU1Y2ItZGIwYS00YjdiLTk3ZDQtZWM5MmRjOTJmZjEyIiwidCI6ImM2YmVjNzVjLTU1ODUtNDMyMi1hNDJhLWY2MzhlZjhiOTA5MyJ9)
 
+[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
 
 ### Web-scraper
 [Wikipedia scraper script](https://github.com/emax4/Web-scraping/blob/master/ETF_Canada.py).
