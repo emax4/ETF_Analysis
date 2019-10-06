@@ -21,8 +21,11 @@ List of Canadian ETFs
 
 ### Power BI
 [ETF_Analysis](https://app.powerbi.com/view?r=eyJrIjoiZjA0ZmU1Y2ItZGIwYS00YjdiLTk3ZDQtZWM5MmRjOTJmZjEyIiwidCI6ImM2YmVjNzVjLTU1ODUtNDMyMi1hNDJhLWY2MzhlZjhiOTA5MyJ9).
+[![ETF_Analysis](https://github.com/emax4/ETF_Analysis/blob/master/Screener_sample.PNG "ETF_Analysis")][https://app.powerbi.com/view?r=eyJrIjoiZjA0ZmU1Y2ItZGIwYS00YjdiLTk3ZDQtZWM5MmRjOTJmZjEyIiwidCI6ImM2YmVjNzVjLTU1ODUtNDMyMi1hNDJhLWY2MzhlZjhiOTA5MyJ9]
 
-![Screenshot](https://app.powerbi.com/view?r=eyJrIjoiZjA0ZmU1Y2ItZGIwYS00YjdiLTk3ZDQtZWM5MmRjOTJmZjEyIiwidCI6ImM2YmVjNzVjLTU1ODUtNDMyMi1hNDJhLWY2MzhlZjhiOTA5MyJ9)
+[![Day calendar](http://i.imgur.com/uqmd4li.jpg "Day calendar")][ss1]
+
+![Screenshot] https://github.com/emax4/ETF_Analysis/blob/master/Screener_sample.PNG (https://app.powerbi.com/view?r=eyJrIjoiZjA0ZmU1Y2ItZGIwYS00YjdiLTk3ZDQtZWM5MmRjOTJmZjEyIiwidCI6ImM2YmVjNzVjLTU1ODUtNDMyMi1hNDJhLWY2MzhlZjhiOTA5MyJ9)
 
 [![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
 
