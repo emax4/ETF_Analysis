@@ -29,3 +29,5 @@ List of Canadian ETFs
 [Wikipedia scraper script](https://github.com/emax4/Web-scraping/blob/master/ETF_Canada.py).
 
 [tmxmoney scraper script](https://github.com/emax4/Web-scraping/blob/master/tmxmoney_scraper.py).
+
+[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
